@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsersCache", "UsersCache\UsersCache.csproj", "{2DEBAAFB-4590-40D2-A77C-1E8C5BA615A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DEBAAFB-4590-40D2-A77C-1E8C5BA615A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DEBAAFB-4590-40D2-A77C-1E8C5BA615A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DEBAAFB-4590-40D2-A77C-1E8C5BA615A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DEBAAFB-4590-40D2-A77C-1E8C5BA615A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
